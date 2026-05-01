@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Raghav Marda
+# 👋 Hi, I'm Raghav Marda  
+### 💻 Aspiring Developer | 🔐 Cybersecurity Enthusiast | 🚀 Tech Explorer
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;Cybersecurity+Enthusiast;CSE+Student;Building+Real+Projects" />
 
 🎓 2nd Year B.Tech CSE Student
