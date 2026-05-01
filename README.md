@@ -55,7 +55,6 @@ A movie discovery web app where users can explore trending movies, search for an
 * 📈 Trending movies section
 * 🎥 Movie details page
 * 🛠️ Tech: HTML, CSS, JavaScript
-
 ---
 
 ### 💰 Smart Expense Tracker
@@ -65,8 +64,6 @@ A simple app to track daily expenses and manage spending.
 * 📊 Track income & expenses
 * 📁 Organized data
 * 🛠️ Tech: (write your tech here)
-
----
 
 ---
 
