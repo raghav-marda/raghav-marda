@@ -7,11 +7,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav-marda&show_icons=true&theme=tokyonight)
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav-marda&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-marda&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-marda&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
