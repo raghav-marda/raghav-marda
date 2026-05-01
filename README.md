@@ -47,8 +47,26 @@
 
 ## 🚀 Projects
 
-* 🎬 MovieVault – Discover trending movies with search & detailed view
-* 💰 Smart Expense Tracker – Track and manage daily expenses efficiently
+### 🎬 MovieVault
+
+A movie discovery web app where users can explore trending movies, search for any movie, and view detailed information.
+
+* 🔍 Search movies by name
+* 📈 Trending movies section
+* 🎥 Movie details page
+* 🛠️ Tech: HTML, CSS, JavaScript
+
+---
+
+### 💰 Smart Expense Tracker
+
+A simple app to track daily expenses and manage spending.
+
+* 📊 Track income & expenses
+* 📁 Organized data
+* 🛠️ Tech: (write your tech here)
+
+---
 
 ---
 
