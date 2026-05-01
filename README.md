@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Raghav
+# 👋 Hi, I'm Raghav Marda
 
 🎓 2nd Year B.Tech CSE Student
 💻 Interested in Web Development, Cybersecurity & AI
-🚀 Currently building projects and improving my skills
+🚀 Building real-world projects and continuously learning
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Python
-* JavaScript
-* HTML, CSS
-* MySQL
+* 💻 Languages: Python, JavaScript, C
+* 🌐 Web: HTML, CSS, JavaScript
+* 🗄️ Database: MySQL
+* 🔐 Cybersecurity: Basics of Ethical Hacking
 
 ---
 
@@ -23,7 +23,14 @@
 
 ---
 
+## 🚀 Projects
+
+* 🎬 MovieVault – Discover trending movies with search & detailed view
+* 💰 Smart Expense Tracker – Track and manage daily expenses efficiently
+
+---
+
 ## 📫 Connect with Me
 
-* LinkedIn: (add later)
-* Email: (add later)
+* LinkedIn: https://www.linkedin.com/in/raghav-marda-b0615032b
+* Email: mardaragahv@gmail.com
