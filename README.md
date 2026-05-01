@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Raghav
 
-<!--
-**raghav-marda/raghav-marda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech CSE Student
+💻 Interested in Web Development, Cybersecurity & AI
+🚀 Currently building projects and improving my skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* Python
+* JavaScript
+* HTML, CSS
+* MySQL
+
+---
+
+## 📈 Currently Learning
+
+* Advanced JavaScript
+* Backend Development
+* Ethical Hacking
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: (add later)
+* Email: (add later)
