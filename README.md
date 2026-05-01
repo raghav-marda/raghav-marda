@@ -55,3 +55,7 @@
 
 * LinkedIn: https://www.linkedin.com/in/raghav-marda-b0615032b
 * Email: mardaragahv@gmail.com
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=raghav-marda&color=blue)
