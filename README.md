@@ -10,8 +10,7 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raghav-marda&show_icons=true&theme=tokyonight)
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-marda&layout=compact&theme=tokyonight&hide=html,css)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-marda&layout=compact&theme=tokyonight&hide=html,css)---
 
 ## 🛠️ Tech Stack
 
